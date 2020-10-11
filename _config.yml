@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'www.nalbanski.com'
+url: "www.nalbanski.com"
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: /dnalb
+#baseurl: /dnalb
 
 # Title of the Site
 title: Dino Nalbanski
