@@ -2,18 +2,18 @@
 markdown: kramdown
 
 # URL of the Site
-url: '' #was "www.nalbanski.com"
+url: '' #was "www.nalbanski.com" (do not use the format
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 #baseurl: /dnalb
 
 # Title of the Site
 title: Dino Nalbanski
 # Description of the Site
-description: Welcome to my page!
+description: CAD, Drafting, Manufacturing
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Site
 # URL for the Image of custom Favicon
 favicon-url: 
 
