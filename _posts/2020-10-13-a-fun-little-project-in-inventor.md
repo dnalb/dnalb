@@ -2,9 +2,10 @@
 title: A fun little project in Inventor
 post-image: https://i.imgur.com/uil968Z.jpg
 tags:
-- old
+
 - Inventor
 - complete
+- older
 ---
 
 This one might look very simple, but it is production-ready, and well, we even have it working.
