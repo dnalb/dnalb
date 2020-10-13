@@ -1,9 +1,7 @@
 ---
 title: A fun little project in Inventor
 post-image: https://i.imgur.com/uil968Z.jpg
-permalink: a-fun-little-project-in-inventor
 tags:
-
 - Inventor
 - complete
 - older
@@ -21,7 +19,7 @@ The steel construction was made with Inventor's frame generator, which allows fo
 
 If anyone feels like making the same one for himself, the drawing will be down below along with a couple of photos of the project.
 
-
+[3d model preview](https://autode.sk/313G6KW)
 
 <br>A render of the model's assembly: <br>
 ![Render1](https://i.imgur.com/Qe8z5XU.jpg)<br>
@@ -32,3 +30,6 @@ If anyone feels like making the same one for himself, the drawing will be down b
 
 And finally, this is how it came out when made!
 <br>![Real Life](https://i.imgur.com/eMiEeJB.jpg)
+
+<br>
+<br>
