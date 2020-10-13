@@ -7,6 +7,8 @@ tags:
 - Inventor
 - complete
 - older
+
+date: 2020-10-13 13:54:08 +1
 ---
 
 This one might look very simple, but it is production-ready, and well, we even have it working.
