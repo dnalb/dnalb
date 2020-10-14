@@ -1,8 +1,8 @@
 ---
-title: Gate Model In Solidworks
+title: Gate Model
 layout: post
 post-image: "https://img.youtube.com/vi/cGx0w0R7498/maxresdefault.jpg"
-description: A gate model I am currently working on. More details will be added soon. This project is in SolidWorks.
+description: A gate model I am currently working on. More details will be added soon.
 date: 2020-11-10 09:00:08 +1
 tags:
 - video
