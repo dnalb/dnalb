@@ -1,8 +1,7 @@
 ---
 title: CV
-layout: page
+layout: CV
 permalink: CV
-order: 2
 ---
 
 #### [Dutch](/assets/documents/CV NL.pdf) <br>
