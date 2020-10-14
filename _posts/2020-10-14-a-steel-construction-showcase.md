@@ -1,6 +1,6 @@
 ---
 title: Steel construction staircase and platform
-permalink: tekla1
+permalink: tekla1.html
 tags:
 - ''
 - Tekla

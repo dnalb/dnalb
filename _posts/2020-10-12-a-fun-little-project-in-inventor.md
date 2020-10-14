@@ -1,7 +1,7 @@
 ---
 title: A fun little project in Inventor
 post-image: https://i.imgur.com/uil968Z.jpg
-permalink: benchpress
+permalink: benchpress.html
 tags:
 
 - Inventor
