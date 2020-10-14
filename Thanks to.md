@@ -3,6 +3,8 @@ title: Credits
 layout: page
 permalink: Thanks_to
 published: true
+sitemap:
+  exclude: 'yes'
 ---
 
 People and organizations to who'm I owe credit for the existence of this site, or I am thankful to in general.

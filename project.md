@@ -3,7 +3,7 @@ layout: project
 title: Projects
 permalink: projects
 published: false
-order: 1
+priority: 0.5
 ---
 
 Welcome to the projects page
