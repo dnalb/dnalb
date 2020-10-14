@@ -4,7 +4,7 @@ layout: CV
 permalink: CV
 sitemap:
   exclude: 'yes'
-priority: 0
+priority: 0.1
 ---
 
 #### [Dutch](/assets/documents/CV NL.pdf) <br>
