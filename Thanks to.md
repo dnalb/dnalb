@@ -1,5 +1,5 @@
 ---
-title: A Thank you
+title: Credits
 layout: page
 permalink: Thanks_to
 published: true
