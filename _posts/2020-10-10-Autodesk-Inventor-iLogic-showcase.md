@@ -7,7 +7,7 @@ tags:
 - video
 - Inventor
 - iLogic
-permalink: iLogic.html
+permalink: iLogic
 ---
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/mcu4pbWNrzQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

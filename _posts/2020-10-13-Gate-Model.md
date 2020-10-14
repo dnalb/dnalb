@@ -6,7 +6,8 @@ description: A gate model I am currently working on. More details will be added 
 tags:
 - video
 - SolidWorks
-permalink: Gate.html
+date: 2020-10-10 08:00 +1
+permalink: Gate
 ---
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/cGx0w0R7498" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

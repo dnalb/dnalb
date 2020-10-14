@@ -1,14 +1,14 @@
 ---
 title: A fun little project in Inventor
 post-image: https://i.imgur.com/uil968Z.jpg
-permalink: benchpress.html
+permalink: benchpress
 tags:
 
 - Inventor
 - complete
 - older
 
-date: 2020-10-13 13:54:08 +1
+date: 2020-10-09 18:00 +1
 ---
 
 This one might look very simple, but it is production-ready, and well, we even have it working.
