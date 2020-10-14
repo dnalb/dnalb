@@ -1,9 +1,8 @@
 ---
-title: Autodesk Inventor iAssembly+iLogic Video Showcase
+title: Autodesk Inventor iAssembly + iLogic Video Showcase
 layout: post
 post-image: "https://media-01.imu.nl/storage/cadcompany.nl/3922/blog-whats-new-inventor-2021-header-1170x500.jpg?t=1589455961"
 description: A quick showcase of a usage scenario for Autodesk Inventor's iLogic. The code behind it is not mine.
-date: 2020-11-09 09:00:08 +1
 tags:
 - video
 - Inventor
