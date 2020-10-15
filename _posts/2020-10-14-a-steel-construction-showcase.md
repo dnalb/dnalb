@@ -8,6 +8,7 @@ tags:
 - drawings
 - BIM
 post-image: https://i.imgur.com/19ptULr.png
+priority: 0.9
 ---
 
 A demo of a project I worked on a few months back in my training.
