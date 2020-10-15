@@ -2,10 +2,10 @@
 title: The Formula 24 Project
 post-image: https://i.imgur.com/RsacTzN.jpg
 tags:
-- ''
-- Inventor
-- SheetMetal
 - sheetmetal
+- Inventor
+- renders
+- drawings
 ---
 
 # **What is the Formula 24 Project or F24**
