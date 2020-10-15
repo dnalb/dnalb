@@ -4,7 +4,6 @@ post-image: https://i.imgur.com/RsacTzN.jpg
 tags:
 - ''
 - Inventor
-- drawings
 - SheetMetal
 - sheetmetal
 ---
