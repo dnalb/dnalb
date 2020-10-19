@@ -1,9 +1,9 @@
 ---
-title: A new project in Tekla and AutoCAD in the works!
+title: A new electricity distribution inspired project in Tekla and AutoCAD in the works!
 permalink: "/Tekla2"
-post-image: https://image.freepik.com/free-photo/electricity-post-sunset_7182-848.jpg
+post-image: https://technofaq.org/wp-content/uploads/2018/09/Tekla-Structures-%D0%BD%D0%B0-%D1%81%D0%B0%D0%B9%D1%82-620x350.png
 tags:
-- ''
+- Drawings
 - Tekla
 - AutoCAD
 description: Hi all, I am currently working on a dummy for an Electricity Pylon model.

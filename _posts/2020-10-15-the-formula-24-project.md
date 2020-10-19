@@ -6,11 +6,12 @@ tags:
 - Inventor
 - renders
 - drawings
+description: An interesting project I worked on as a part of my training.
 ---
 
 # **What is the Formula 24 Project or F24**
 
-Greenpower Education Trust is a UK based charity which gets young people enthusiastic about science and engineering by challenging them to design, build and race an electric car.
+Greenpower Education Trust is a UK based charity which gets young people enthusiastic about science and engineering by challenging them to design, build and race an electric car.  
 
 We supply age appropriate Kit Cars, which can be built in school, college or elsewhere and raced at motorsport venues at Greenpower organised events. Alternatively, older participants can design and build their own car to our regulations. The Greenpower challenge uses the excitement of motorsport to inspire young people to excel in Science, Technology, Engineering and Maths (STEM).
 
@@ -30,9 +31,9 @@ As a part of the VDAB's team for this competition, our CAD class  took the respo
 
 To modify the default concept according to our needs and manufacturing capabilites and optimise it with the purpose of making the fastes car out there and win the race!
 
-# **My collaboration** 
+# **My collaboration in more detail** involved amongst other things:  
+<br>
 
-Involved amongst others:
 
 ### Sheet metal parts 
 
