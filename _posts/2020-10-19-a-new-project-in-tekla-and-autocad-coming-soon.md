@@ -11,7 +11,8 @@ tags:
 description: Hi all, I am currently working on a dummy for an Electricity Pylon model.
 ---
 
-The general layout is already created - at least the part that suits my needs to model and detail it later with Tekla.
+The general layout is already created - at least the part that suits my needs to model and detail it later with Tekla.      
+I've also added a video at the bottom of the page.
 
 ![Tekla2 Autocad Layout](/assets/images/Tekla2/screenshot1.jpg)
 
@@ -40,3 +41,7 @@ The general layout is already created - at least the part that suits my needs to
 
 ## General arangement
 ![Tekla2 Autocad Layout](/assets/images/Tekla2/GA.jpg)
+
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D2iMbxT3-Pg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
