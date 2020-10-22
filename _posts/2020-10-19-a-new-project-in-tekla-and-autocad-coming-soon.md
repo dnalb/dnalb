@@ -14,7 +14,7 @@ priority: 0.9
 
 <br>
 The general layout is already created (see dwg down below) - at least the part that suits my needs to model and detail it later with Tekla.    
-I've also added a [video](http://localhost:4000/Tekla2#video)
+I've also added a [video](/Tekla2#video)
  at the bottom of the page.      
 
 Please note, the structure is not fully detailed, for example I left a lot of clashes between the profiles uncut or unfitted. I made this decision because fully detailing something like this involves a lot of busy work, way too much for a free time project or a project that I do not intend to put straight to manufacturing.    
