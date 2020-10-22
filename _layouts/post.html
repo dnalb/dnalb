@@ -9,6 +9,17 @@ layout: compress
   {% include head.html %}
 </head>
 
+<script src="assets/js/anchor.min.js"></script>
+<script src="assets/js/jquery-3.5.1.min.js"></script>
+
+<script>
+	$(function() {
+		anchors.options.visible = 'always'; 
+		anchors.add('.post-content > h1, h2, h3, h4, h5, h6');
+	});
+</script>
+
+
 <body>
   {% include navbar.html %}
 
@@ -63,6 +74,9 @@ layout: compress
   </section>
   {% include footer.html %}
 </body>
+
+
+
 <script>
   /**
    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
@@ -80,6 +94,16 @@ layout: compress
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
   })();
+</script>
+
+<script src="assets/js/anchor.min.js"></script>
+<script src="assets/js/jquery-3.5.1.min.js"></script>
+
+<script>
+	$(function() {
+		anchors.options.visible = 'hover'; 
+		anchors.add('.post-content > h1, h2, h3, h4, h5, h6');
+	});
 </script>
 
 </html>

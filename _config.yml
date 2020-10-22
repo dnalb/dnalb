@@ -1,5 +1,7 @@
 # WhatATheme
 markdown: kramdown
+kramdown:
+  auto_ids: true
 
 # URL of the Site
 url: '' #was "www.nalbanski.com" (do not use the format
