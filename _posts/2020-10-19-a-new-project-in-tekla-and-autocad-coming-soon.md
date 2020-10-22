@@ -11,6 +11,7 @@ tags:
 description: Hi all, I am currently working on a sample of a Electricity Pylon model.
 priority: 0.9
 ---
+
 <br>
 The general layout is already created (see dwg down below) - at least the part that suits my needs to model and detail it later with Tekla.    
 I've also added a [video](http://localhost:4000/Tekla2#video)
@@ -21,6 +22,9 @@ Please note, the structure is not fully detailed, for example I left a lot of cl
 I used a minimal amount of macros to create it, most of it was hand work. For example the reinforcements at the base diagonals are made with a customisable macro tool which is provided with Tekla.
 
 The rest I made myself by hand because I feel this way is a lot more customizable to the project's specific needs, for example the arms are hand made, including their bracings and reinforcements.
+Unfortunately also Tekla managed to crash on me when I was making the GA drawing, which resulted in some considerable loss of work. 
+
+In fact, what I am posting here is a previous save in a less-refined state, but currently I am lacking the energy to build it up again to it's previous state.
 
  <br>    
 
