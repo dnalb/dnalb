@@ -7,6 +7,7 @@ tags:
 - renders
 - drawings
 description: An interesting project I worked on as a part of my training.
+priority: 0.8
 ---
 
 # **What is the Formula 24 Project or F24**

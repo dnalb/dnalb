@@ -9,6 +9,7 @@ tags:
 - renders
 - video
 description: Hi all, I am currently working on a dummy for an Electricity Pylon model.
+priority: 0.9
 ---
 <br>
 The general layout is already created (see dwg down below) - at least the part that suits my needs to model and detail it later with Tekla.    
