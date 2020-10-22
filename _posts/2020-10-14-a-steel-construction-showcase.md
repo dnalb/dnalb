@@ -2,7 +2,6 @@
 title: Steel construction staircase and platform
 permalink: tekla1
 tags:
-- ''
 - Tekla
 - renders
 - drawings
@@ -13,7 +12,7 @@ priority: 0.9
 
 A demo of a project I worked on a few months back in my training.
 
-**What is Tekla structures?**
+## **What is Tekla structures?**
 
 Quote from *[Tribles website](https://www.tekla.com/products/tekla-structures)*
 
@@ -25,7 +24,7 @@ Once it is ready, you can pull all the drawings you need, and they are being gen
 Of course, there is a vast amount of customization you can do in the drawings, but usually what you get automatically is almost good enough to step into detailing for production.
 
 
-**The project in a few photos of drawings and renders I made as a part of the project**
+## **The project in a few photos of drawings and renders I made as a part of the project**
 
 
 

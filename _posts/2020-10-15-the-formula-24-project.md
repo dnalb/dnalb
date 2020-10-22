@@ -18,21 +18,21 @@ We supply age appropriate Kit Cars, which can be built in school, college or els
 
 See more at [Greenpower's website](https://www.greenpower.co.uk/)
 
-# **My participation**
+## **My participation**
 
 As a part of the VDAB's team for this competition, our CAD class  took the responsibility of creating manufacturing-ready drawings for the whole project.
 
-# **What we began with** was a full assembly of a sample kit car in 3D format.
+## **What we began with** was a full assembly of a sample kit car in 3D format.
 
 ![](https://i.imgur.com/nygn5eK.jpg)
 
 ![](https://i.imgur.com/ficrbkS.jpg)
 
-# **Our mission** 
+## **Our mission** 
 
 To modify the default concept according to our needs and manufacturing capabilites and optimise it with the purpose of making the fastes car out there and win the race!
 
-# **My collaboration in more detail** involved amongst other things:  
+## **My collaboration in more detail** involved amongst other things:  
 <br>
 
 

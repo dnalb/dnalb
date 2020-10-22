@@ -8,7 +8,7 @@ tags:
 - AutoCAD
 - renders
 - video
-description: Hi all, I am currently working on a dummy for an Electricity Pylon model.
+description: Hi all, I am currently working on a sample of a Electricity Pylon model.
 priority: 0.9
 ---
 <br>
